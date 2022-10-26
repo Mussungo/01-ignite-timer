@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable no-unused-vars */
 import { ThemeProvider } from 'styled-components'
 import { Router } from './Router'
